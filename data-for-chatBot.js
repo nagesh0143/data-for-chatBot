@@ -9,7 +9,7 @@ var dataBase_for_AI = {
     },
     "greetings": ["Hi!", "Hello!", "Hey there!"],
     "?": {
-        "what is your name": "I am under developing so my name was decide, but my temporary name ChatBot as well as AI Assistant",
+        "what is your name": "I am under developing so my name was not decide, but my temporary name ChatBot as well as AI Assistant",
         "who are you": "I'm an AI assistant.",
         "how are you": "I'm just a program, so I don't have feelings, but thanks for asking!",
         "what can you do": "I can help you with various tasks like answering questions, providing information, and more!"
